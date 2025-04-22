@@ -6,7 +6,7 @@ This repository contains the complete code for my three-part Medium series on im
 
 This educational series takes you on a journey from the fundamentals of nearest neighbor algorithms to advanced applications:
 
-- **[Part 1: Building a Simple Nearest Neighbor Classifier](https://medium.com/your-username/article-link)** - Implementing the core algorithm and classifying cat and dog images
+- **[Part 1: Building a Simple Nearest Neighbor Classifier](https://medium.com/@pereiraosborne8/from-simple-to-sophisticated-a-hands-on-journey-with-nearest-neighbor-algorithms-part-1-94746fd5578f)** - Implementing the core algorithm and classifying cat and dog images
 - **Part 2: Exploring Distance Metrics with CIFAR-10** - Diving deeper with a larger dataset and comparing distance functions
 - **Part 3: KNN for Embeddings and GenAI Retrieval** - Applying nearest neighbor concepts to modern AI retrieval tasks
 
