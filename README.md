@@ -41,6 +41,6 @@ Then navigate to the notebook you want to run.
 
 ### Dataset Information
 
-Part 1: Uses a small custom dataset of cat and dog images (Available in this repo)
-Part 2: Uses the CIFAR-10 dataset (Download [here](http://www.cs.toronto.edu/~kriz/cifar.html) and store it in your Google Drive if accessing through Google Colab)
-Part 3: TBC
+1. Uses a small custom dataset of cat and dog images (Available in this repo)
+2. Uses the CIFAR-10 dataset (Download [here](http://www.cs.toronto.edu/~kriz/cifar.html) and store it in your Google Drive if accessing through Google Colab)
+3. TBC
